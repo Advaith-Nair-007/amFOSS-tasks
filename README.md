@@ -14,4 +14,4 @@ To give back to the club, I plan to start by being an active and involved member
 
 What are your fields of interest, and how do you plan on working on them?
 
-I’m especially interested in areas like [choose 1–2: web development, AI/ML, app development, etc.], and I’m really looking forward to building a strong foundation through hands-on experience. I want to work on real open-source projects, follow structured learning paths, and start building some of my own tools along the way. More than just learning the tech, I’m excited to explore how these skills can be used to solve real-world problems, especially by collaborating and learning from others in the community.
+I’m especially interested in areas like AI/ML and I’m really looking forward to building a strong foundation through hands-on experience. I want to work on real open-source projects, follow structured learning paths, and start building some of my own tools along the way. More than just learning the tech, I’m excited to explore how these skills can be used to solve real-world problems, especially by collaborating and learning from others in the community.
