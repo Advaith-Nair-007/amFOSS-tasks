@@ -1,7 +1,7 @@
 # amFOSS-tasks
 
 INTRODUCTION
-
+<hr>
 Hi there Im Advaith Nair, I am a first-year BTech Artifical Intelligence and Data Science undergrad at Amrita Vishwa Vidyapeetham, Amritapuri campus. I am beginner-level coder and my preferred language is Python. My hobbies inclube playing basketball and gaming.
 
 Why should we choose you?
